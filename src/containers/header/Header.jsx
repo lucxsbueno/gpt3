@@ -10,7 +10,7 @@ const Header = () => {
     <div className="gpt3__header section__padding" id="#home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">
-          Let’s Build Something amazing with GPT-3 OpenAI
+          Vamos construir algo incrível com GPT-3 OpenAI
         </h1>
 
         <p>
@@ -21,13 +21,13 @@ const Header = () => {
         </p>
 
         <div className="gpt3__header-content__input">
-          <input type="email" placeholder="Your e-mail address" />
-          <button type="button">Get Started</button>
+          <input type="email" placeholder="Seu endereço de e-mail" />
+          <button type="button">Iniciar</button>
         </div>
 
         <div className="gpt3__header-content__people">
           <img src={people} alt="People" />
-          <p>1,600 people requested access a visit in last 24 hours</p>
+          <p>1,600 pessoas solicitaram acesso uma visita nas últimas 24 horas</p>
         </div>
       </div>
       <div className="gpt3__header-image">
